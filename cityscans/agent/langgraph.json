@@ -1,0 +1,10 @@
+
+{
+    "python_version": "3.12",
+    "dockerfile_lines": [],
+    "dependencies": ["."],
+    "graphs": {
+      "travel": "./travel/agent_map.py:graph"
+    },
+    "env": ".env"
+}
