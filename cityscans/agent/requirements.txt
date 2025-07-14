@@ -1,0 +1,15 @@
+
+typing
+typing_extensions
+dotenv
+pandas
+
+langchain_core
+langchain_openai
+langgraph
+
+IPython
+mapboxgl
+googlemaps
+
+# ipython>=8.20
