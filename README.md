@@ -1,5 +1,6 @@
-# CityScans 
-cityscans is an AI-driven application designed to help users plan their travels. It leverages LLMs and mapping tools to suggest destinations, create trips, and organize travel itineraries.
+![alt text](image-4.png)
+# CityScans
+CityScans is an AI-driven application designed to help users plan their travels. It leverages LLMs and mapping tools to suggest destinations, create trips, and organize travel itineraries.
 
 ## Features
 
